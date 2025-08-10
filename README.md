@@ -1,9 +1,11 @@
-## Projects
+# 📝 To-Do List
 
-### To-Do List Application
-A simple and interactive To-Do List built with HTML, CSS, and JavaScript.
-"C:\Users\Win10\Desktop\to-do list\weather-widget\index.html"
-- [index.html](To-Do-list/index.html)
-- [style.css](To-Do-list/style.css)
-- [script.js](To-Do-list/script.js)
+A simple and interactive To-Do List web application built with **HTML**, **CSS**, and **JavaScript**.  
+Helps you manage your daily tasks efficiently.
+
+## 🚀 Live Demo
+[Click here to open the To-Do List](https://username.github.io/GAMES/To-Do-list/)
+
+## 📂 Project Structure
+
 
